@@ -1,0 +1,59 @@
+@import 'src/App.scss';
+
+.projects__container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2.5rem;
+}
+
+.projects__item{
+    background: $bg-color-2;
+    padding: 1.2rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: $transition;
+
+    &:hover{
+        border-color: $color-primary-2;
+        background-color: transparent;
+    }
+}
+
+.projects__item-image{
+    border-radius:1.5rem ;
+    overflow: hidden;
+}
+
+.projects__item h3{
+margin: 1.2rem 0 2rem;
+}
+
+.project_items_cta{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    
+}
+
+@media screen and (max-width : 1024px) {
+   
+    .projects__container{
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2rem;
+    }
+    
+    
+    
+    }
+    
+    // Media Queries (SM)
+    @media screen and (max-width : 600px) {
+       
+           
+        .projects__container{
+            grid-template-columns: 1fr;
+            gap: 1rem;
+        }
+        
+    
+    }
