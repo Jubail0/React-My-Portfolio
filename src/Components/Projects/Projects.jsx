@@ -2,7 +2,7 @@ import React from 'react';
 import "./Projects.scss";
 import IMG1 from '../../Assets/Ecom.png';
 import IMG2 from "../../Assets/weatherApp.png";
-import IMG3 from "../../Assets/youtube.png";
+import IMG3 from "../../Assets/youtube.jpeg";
 import IMG4 from "../../Assets/easybank.png";
 import IMG5 from "../../Assets/meme.png";
 
