@@ -48,7 +48,7 @@ const projects = [
         demo:'https://meme-generator-react.onrender.com',
         type:"react"
     },
-  
+
 ]
     return (
         <section id='projects'>
