@@ -11,7 +11,7 @@ const projects = [
     {
         id:1,
         image:IMG1,
-        title:"E-commerce App",
+        title:"Full Stack E-commerce Application",
         github:'https://github.com/Jubail0/Mern-Ecommerce-App-Frontend',
         demo:'https://my-shop-ecommerce.onrender.com',
         type:"mern"
@@ -19,7 +19,7 @@ const projects = [
     {
         id:2,
         image:IMG2,
-        title:"Basic Weather App",
+        title:"Full Stack Weather Application",
         github:'https://github.com/Jubail0/Weather-App-Backend',
         demo:'https://weather-app-c0g1.onrender.com',
         type:"mern"
