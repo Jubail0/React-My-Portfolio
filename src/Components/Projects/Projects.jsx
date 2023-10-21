@@ -53,7 +53,7 @@ const projects = [
         id:6,
         image:IMG6,
         title:"Tic Tac Toe Game",
-        github:'https://github.com/Jubail0/React-Meme-Generator',
+        github:'https://github.com/Jubail0/React-Tic-Tac-Toe-Game',
         demo:'https://tit-tat-toee.netlify.app',
         type:"react"
     },
