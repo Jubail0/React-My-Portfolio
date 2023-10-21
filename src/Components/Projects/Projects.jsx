@@ -5,6 +5,7 @@ import IMG2 from "../../Assets/weatherApp.png";
 import IMG3 from "../../Assets/youtube.jpeg";
 import IMG4 from "../../Assets/easybank.png";
 import IMG5 from "../../Assets/meme.png";
+import IMG6 from "../../Assets/tictac."
 
 const Projects = () => {
 const projects = [
@@ -46,6 +47,14 @@ const projects = [
         title:"Basic Meme generator",
         github:'https://github.com/Jubail0/React-Meme-Generator',
         demo:'https://meme-generator-react.onrender.com',
+        type:"react"
+    },
+    {
+        id:6,
+        image:IMG5,
+        title:"Tic Tac Toe Game",
+        github:'https://github.com/Jubail0/React-Meme-Generator',
+        demo:'https://tit-tat-toee.netlify.app',
         type:"react"
     },
 
