@@ -20,7 +20,7 @@ const projects = [
     {
         id:2,
         image:IMG2,
-        title:"Full Stack Weather Application",
+        title:"Full Stack Weather Application (desktop view only)",
         github:'https://github.com/Jubail0/Weather-App-Backend',
         demo:'https://weather-app-c0g1.onrender.com',
         type:"mern"
@@ -44,7 +44,7 @@ const projects = [
     {
         id:5,
         image:IMG5,
-        title:"Basic Meme generator",
+        title:"Basic Meme generator (desktop view only)",
         github:'https://github.com/Jubail0/React-Meme-Generator',
         demo:'https://meme-generator-react.onrender.com',
         type:"react"
@@ -52,7 +52,7 @@ const projects = [
     {
         id:6,
         image:IMG6,
-        title:"Tic Tac Toe Game",
+        title:"Tic Tac Toe Game (desktop view only)",
         github:'https://github.com/Jubail0/React-Tic-Tac-Toe-Game',
         demo:'https://tit-tat-toee.netlify.app',
         type:"react"
